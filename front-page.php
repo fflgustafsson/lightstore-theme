@@ -8,19 +8,13 @@ get_header();
 the_post();
 ?>
 
-	<div class="lightstore-wrap">
+	<div class="container">
 
-		<div class="container">
-			<div class="light">
-
-				<div class="light__bulb">
-					<img src="<?php bloginfo('stylesheet_directory'); ?>/images/kvist-lampa.png">
-					<div class="light__bulb__glow__l"></div>
-					<div class="light__bulb__glow__r"></div>
-				</div>
-
-			</div>
-		</div>
+      <div class="light__bulb">
+         <img src="<?php bloginfo('stylesheet_directory'); ?>/images/kvist-lampa.png">
+         <div class="light__bulb__glow__l"></div>
+         <div class="light__bulb__glow__r"></div>
+      </div>
 	
 	</div>
 
