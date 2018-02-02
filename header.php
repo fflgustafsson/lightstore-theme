@@ -15,7 +15,6 @@
 		<link href="<?php bloginfo('stylesheet_directory'); ?>/css/jquery.fancybox.css" rel="stylesheet" type="text/css"/>
 		<link href="<?php bloginfo('stylesheet_directory'); ?>/css/extra.css" rel="stylesheet" type="text/css"/>
 		<link href="<?php bloginfo('stylesheet_url'); ?>" rel="stylesheet"  type="text/css" title="no title" charset="utf-8"/>
-		<link href="<?php bloginfo('stylesheet_directory'); ?>/css/slicknav.css" rel="stylesheet" />
 		<link href="<?php bloginfo('stylesheet_directory'); ?>/css/flickerplate.css"  type="text/css" rel="stylesheet">
 				
 		<!--[if lt IE 9]>
@@ -74,7 +73,7 @@
     
 		<div class="wrap">
 			<header>
-				
+
 				<div class="header__logo">
 
 					<a href="<?php bloginfo('url'); ?>">

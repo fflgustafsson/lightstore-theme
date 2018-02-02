@@ -68,7 +68,6 @@
 	   <script src="<?php bloginfo('stylesheet_directory'); ?>/js/jquery.ba-bbq.min.js" type="text/javascript"></script>  
 	   <script src="<?php bloginfo('stylesheet_directory'); ?>/js/jquery.form.js" type="text/javascript"></script> 
 	   <script src="<?php bloginfo('stylesheet_directory'); ?>/js/jquery.fancybox.pack.js" type="text/javascript"></script>
-	   <script src="<?php bloginfo('stylesheet_directory'); ?>/js/jquery.slicknav.js"></script>
 	   <script src="<?php bloginfo('stylesheet_directory'); ?>/js/jquery-finger-v0.1.0.min.js" type="text/javascript"></script>
 	   <script src="<?php bloginfo('stylesheet_directory'); ?>/js/jquery.isotope.load.js" type="text/javascript"></script>
 
